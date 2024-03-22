@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0fea2900276F32F205B20A4AeB83D0D425B0cF33",
+  "SCAN_LINK": "https://basescan.org/address/0x0fea2900276f32f205b20a4aeb83d0d425b0cf33",
+  "NETWORK": {
+    "NAME": "Base Mainet",
+    "SYMBOL": "Eth",
+    "ID": 8453
+  },
+  "NFT_NAME": "SunblockSams",
+  "SYMBOL": "SAMS",
+  "MAX_SUPPLY": 3300,
+  "WEI_COST": 25000000000000000,
+  "DISPLAY_COST": 0.013,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sunblocksams",
+  "SHOW_BACKGROUND": true
+}
